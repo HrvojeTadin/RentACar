@@ -1,0 +1,12 @@
+1 ZG487JG 400 Renault Clio 5
+2 RI478AA 900 BMW Z8 2
+3 PU121H 650 Honda CR-Z 4
+4 OS221GF 500 Volvo V60 5
+5 ZG877IO 1000 Porsche Panamera 4
+6 ZG871SS 700 Toyota Prius-wagon 7
+7 RI558AS 600 Renault Laguna 5
+8 RI129SA 800 Mitsubishi Outlander 7
+9 OS128KL 850 Kia Sportage 6
+10 KA125KO 1200 Mazda MX-6 2
+11 RI987SL 3000 Nissan GT-R 2
+12 RI898DF 2100 Subaru Impreza 5

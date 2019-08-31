@@ -1,0 +1,3 @@
+12345 Vlasnik
+67899 Djelatnik
+98765 Djelatnik
